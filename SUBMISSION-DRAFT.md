@@ -1,7 +1,6 @@
 # SUBMISSION DRAFT — PayPhantom (Kiroween 2026, Frankenstein)
 
-> DRAFT — not submitted. The user submits on Devpost himself.
-> Fill in the repo URL, app URL and video URL once they exist.
+> SUBMITTED 2026-11-13 ~20:55 WITA by Udin himself — live at https://devpost.com/software/payphantom (verified live: full About text, elevator pitch, video, repo link, category Frankenstein).
 
 ## Title
 
