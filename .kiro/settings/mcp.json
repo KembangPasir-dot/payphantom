@@ -1,0 +1,1 @@
+{"mcpServers":{"payphantom-tools":{"args":["scripts/mcp-payphantom.mjs"],"command":"node","description":"Local PayPhantom tools: read-only BSC receipt gas quotes. No keys, no signing.","disabled":false}}}

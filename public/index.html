@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PayPhantom — Invoice PayPal + Struk NFT</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>👻 PayPhantom</h1>
+  <p class="tagline">Chat jadi invoice PayPal — dan setiap pembayaran pulang membawa struk NFT di BNB Chain.</p>
+  <p id="health" class="health">Memeriksa status…</p>
+</header>
+<main>
+  <section class="chat">
+    <div id="log" class="log"></div>
+    <form id="form">
+      <input id="input" type="text" autocomplete="off" placeholder="Contoh: Tagih Budi budi@example.com Rp500.000 untuk desain logo, jatuh tempo minggu depan">
+      <button type="submit">Kirim</button>
+    </form>
+  </section>
+  <section class="lists">
+    <div>
+      <h2>Invoice</h2>
+      <div id="invoices" class="cards"><p class="empty">Belum ada invoice.</p></div>
+    </div>
+    <div>
+      <h2>Struk NFT (receipt)</h2>
+      <div id="receipts" class="cards"><p class="empty">Belum ada struk. Struk dibuat begitu invoice dibayar.</p></div>
+    </div>
+  </section>
+</main>
+<footer>
+  <p>PayPhantom — Kiroween 2026 (Frankenstein). PayPal sandbox + BNB Chain. Mint on-chain ditunda sampai operator mengonfirmasi (lihat README).</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
