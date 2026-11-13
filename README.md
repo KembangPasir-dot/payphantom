@@ -69,10 +69,7 @@ hooks in `.kiro/hooks/`, MCP config in `.kiro/settings/mcp.json`.
 
 ## Status
 
-Scaffold, 2026-11-13. Next: Kiro sign-in + 4,000 free credits, one real
-sandbox invoice end to end, receipt contract deploy + first confirmed mint,
-demo video, Devpost submit by 5 Dec 2026 06:00 WITA. See `HANDOFF.md` and
-`.kiro/specs/payphantom/tasks.md`.
+Live, 2026-11-13. Kiro CLI signed in (Builder ID), 4,000 Kiroween bonus credits confirmed in the account, and two real sandbox invoices created end to end (Sarah $120, SENT). Next: demo video, receipt contract deploy + first confirmed mint, Devpost submit by 5 Dec 2026 06:00 WITA. See `HANDOFF.md` and `.kiro/specs/payphantom/tasks.md`.
 
 ## License
 
