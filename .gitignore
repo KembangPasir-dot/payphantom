@@ -2,3 +2,9 @@ node_modules
 .env
 *.log
 .DS_Store
+.venv-record/
+demo/*.webm
+demo/frames*/
+demo/seg*.mp4
+demo/concat.txt
+demo/*.png

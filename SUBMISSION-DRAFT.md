@@ -59,7 +59,7 @@ story with zero credentials and zero BNB.
 
 - GitHub repo (public, MIT, /.kiro at root): TODO
 - Live app URL: TODO
-- Demo video (YouTube, public, <3 min): TODO
+- Demo video (YouTube, public, <3 min): RECORDED 2026-11-13 ~20:15 WITA — `demo/payphantom-demo.mp4` (52.8s). YouTube upload pending (Udin's step); link to be added here after upload.
 
 ## Bonus prizes (consider)
 
